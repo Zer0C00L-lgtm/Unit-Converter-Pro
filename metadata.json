@@ -1,0 +1,6 @@
+{
+  "name": "Unit Converter",
+  "description": "A high-precision bidirectional kilometer and mile converter with conversion history, CSV export, dark mode, and user session management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
